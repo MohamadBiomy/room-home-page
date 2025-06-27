@@ -181,7 +181,7 @@ header .burger {
 
 /* info section */
 .info-section {
-	width: 40;
+	width: 40vw;
 	display: flex;
 	align-items: start;
 	flex-wrap: wrap;
